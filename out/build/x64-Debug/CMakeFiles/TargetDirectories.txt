@@ -1,0 +1,5 @@
+C:/Users/angry/Desktop/Programming/EnvironmentVariable/Multitool/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/angry/Desktop/Programming/EnvironmentVariable/Multitool/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/angry/Desktop/Programming/EnvironmentVariable/Multitool/out/build/x64-Debug/Multitool/CMakeFiles/Multitool.dir
+C:/Users/angry/Desktop/Programming/EnvironmentVariable/Multitool/out/build/x64-Debug/Multitool/CMakeFiles/edit_cache.dir
+C:/Users/angry/Desktop/Programming/EnvironmentVariable/Multitool/out/build/x64-Debug/Multitool/CMakeFiles/rebuild_cache.dir
